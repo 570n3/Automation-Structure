@@ -14,7 +14,7 @@ Implemented the Page Object Model (POM) design pattern in this project, with a v
 2. **Actions and Interactions:**
 
     The Page/Component class provides methods to perform actions on the elements present on the page. These methods encapsulate interactions like clicking buttons, filling out forms, and navigating to other pages.
-    For example, the LoginPage class might include methods like `login(username, password)` to perform the login action.
+    
 
 3. **Abstraction:**
 
