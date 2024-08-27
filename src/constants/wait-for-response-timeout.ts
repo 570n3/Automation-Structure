@@ -1,0 +1,1 @@
+export const WAIT_FOR_RESPONSE_TIMEOUT = 60 * 1000; // 60 seconds

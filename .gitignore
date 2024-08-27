@@ -1,0 +1,9 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/test-data/loginData.json
+.env
+playwright/.auth
+/download/
+log*
